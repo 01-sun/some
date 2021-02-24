@@ -1,0 +1,17 @@
+baseURL = "https://01-sun.github.io/"
+languageCode = "zh-CN"
+title = "LITOU's BLOG"
+
+theme = "hugo-theme-cactus-plus"
+[params]
+	author = "litou"
+	description = "Site Description"
+    iconFont = "font-awesome" # 矢量图库
+    bio = "自由 游戏 海龟先生"
+
+    enableSummary = true #主页文章摘要
+   
+[social]
+	facebook-square = "https://www.facebook.com/nodejh"
+	twitter-square = "https://www.twitter.com/nodejh"
+	github-square = "https://www.github.com/nodejh"
